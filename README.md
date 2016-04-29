@@ -1,2 +1,2 @@
-# Spoj
-Solutions to spoj problems by me [profile](http://www.spoj.com/users/blackperl/)
+# Spoj by [blackperl](http://www.spoj.com/users/blackperl)
+My solutions to Spoj problems
